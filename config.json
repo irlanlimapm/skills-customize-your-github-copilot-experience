@@ -60,6 +60,25 @@
       ]
     },
     {
+      "id": "file-handling-automation",
+      "title": "File Handling & Automation",
+      "description": "Practice reading and writing files in Python and create an automated report workflow.",
+      "path": "assignments/file-handling-automation",
+      "dueDate": "2026-06-10",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Data",
+          "file": "sample-data.csv",
+          "type": "csv"
+        }
+      ]
+    },
+    {
       "id": "fastapi-rest-apis",
       "title": "Building REST APIs with FastAPI",
       "description": "Create a RESTful book management API using FastAPI, Pydantic models, and CRUD endpoints.",
